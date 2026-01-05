@@ -15,7 +15,10 @@ export default function Film() {
       .to("#scene-2", { opacity: 1, duration: 3 })
       .to("#scene-2", { opacity: 0, duration: 3 }, "+=7")
 
-      // continues for full 15 minutes
+      .to("#scene-3", { opacity: 1, duration: 3 })
+      .to("#scene-3", { opacity: 0, duration: 3 }, "+=8")
+
+      // Continue extending to 15 minutes
   }, [])
 
   return (
