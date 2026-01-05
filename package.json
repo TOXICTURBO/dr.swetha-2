@@ -14,5 +14,11 @@
     "@react-three/fiber": "^8.15.0",
     "@react-three/drei": "^9.92.0",
     "gsap": "^3.12.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.11.0",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.17"
   }
 }
