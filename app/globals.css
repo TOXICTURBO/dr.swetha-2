@@ -16,7 +16,6 @@ html, body {
   text-align: center;
   padding: 10vw;
   opacity: 0;
-  z-index: 5;
   font-size: clamp(24px,4vw,56px);
   font-weight: 900;
   letter-spacing: .16em;
